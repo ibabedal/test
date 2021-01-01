@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/hema/.dotnet/store/|arch|/|tfm|",
+      "/Users/hema/.nuget/packages"
+    ]
+  }
+}
